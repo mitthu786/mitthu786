@@ -48,8 +48,8 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
 <a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="Premiere Pro" width="40px" src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png"/> </a> 
-<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="LightRoom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/07/adobe-photoshop-logo.png"/> </a>
+<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="LightRoom" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adobe_Corporate_logo.svg/1200px-Adobe_Corporate_logo.svg.png"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_orange.png"/> </a>
 
 
