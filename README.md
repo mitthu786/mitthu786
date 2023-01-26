@@ -1,16 +1,15 @@
-<!-- Copyrights mitthu786  -->
+<!-- Copyrights @mitthu786  -->
 
 <p align="center"><a href="https://t.me/"><img src="https://thumbs.gfycat.com/AccomplishedSoggyBlackbird-max-1mb.gif" alt="Hello" /></a></p>
 
-<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- <br></h4>
+<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- <br></h4>
 
 <p align='center'> 
-<a href="https://codepen.io/"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-<a href=""><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/"><img height="25" src="https://img.shields.io/badge/hackerrank-%23ffffff.svg?&style=for-the-badge&logo=hackerrank&logoColor=green"></a>&nbsp;&nbsp;   
-<a href=""><img height="25" src="https://img.shields.io/badge/join discord-%23ffffff.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>&nbsp;&nbsp; 
+<a href="https://codepen.io/techiesneh"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/techiesneh"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://snehiptv.ml"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/techiesneh"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://bit.ly/3XDNjN1"><img height="25" src="https://img.shields.io/badge/join telegram-%23ffffff.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp; 
 </p>
 
 
@@ -19,11 +18,11 @@
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
 ✔️ 👋 ʜɪ, ɪ’ᴍ @mitthu786 .<br>
-✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ .<br>
-✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴄ , ʜᴛᴍʟ , ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ , ʙᴏᴏᴛꜱᴛʀᴀᴘ , ᴍʏꜱQʟ , ᴄꜱꜱ & xᴍʟ . <br>
-✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, ᴘʏᴛʜᴏɴ & ꜱᴏᴍᴇ ᴇᴛʜɪᴄᴀʟ ꜱᴛᴜꜰꜰꜱ .<br>
-✔️ 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- <br>
+✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ.<br>
+✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴄ , ʜᴛᴍʟ , ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ , ʙᴏᴏᴛꜱᴛʀᴀᴘ , ᴍʏꜱQʟ , ᴄꜱꜱ & xᴍʟ.<br>
+✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, ᴘʏᴛʜᴏɴ & ꜱᴏᴍᴇ ᴇᴛʜɪᴄᴀʟ ꜱᴛᴜꜰꜰꜱ.<br>
 ✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <br>
+✔️ 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- https://bit.ly/3XDNjN1<br>
 ✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- krmitthu786@gmail.com <br>
 
 
@@ -61,7 +60,4 @@
 
 ![Mitthu786's github stats](https://github-stats-alpha.vercel.app/api/?username=mitthu786)
 
-<!---
-mithhu786/mithhu786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
