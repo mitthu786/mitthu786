@@ -20,8 +20,8 @@
 ✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴄ , ʜᴛᴍʟ , ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ , ʙᴏᴏᴛꜱᴛʀᴀᴘ , ᴍʏꜱQʟ , ᴄꜱꜱ & xᴍʟ.<br>
 ✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, ᴘʏᴛʜᴏɴ & ꜱᴏᴍᴇ ᴇᴛʜɪᴄᴀʟ ꜱᴛᴜꜰꜰꜱ.<br>
 ✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <br>
-✔️ 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- https://bit.ly/3XDNjN1<br>
-✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- krmitthu786@gmail.com <br>
+✔️ 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- [Join Now](https://bit.ly/3XDNjN1) <br>
+✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- [mitthu786](mailto:krmitthu786@gmail.com) <br>
 
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
 
@@ -29,7 +29,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" /></a>
 <a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/250px-Webysther_20160423_-_Elephpant.svg.png" /></a>
 <a href="https://www.w3schools.com/python/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://static.vecteezy.com/system/resources/previews/012/697/295/original/3d-python-programming-language-logo-free-png.png"/> </a>
-<a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img align="left" alt="BootStrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/> </a>
+<a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img align="left" alt="BootStrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/250px-Bootstrap_logo.svg.png"/> </a>
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> </a>
 
 <br>
