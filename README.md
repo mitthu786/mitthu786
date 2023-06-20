@@ -12,8 +12,7 @@
 <a href="https://bit.ly/3XDNjN1"><img height="25" src="https://img.shields.io/badge/join telegram-%23ffffff.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp; 
 </p>
 
-
-<p align="center"> <a href="https://github.com/mitthu786/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=mitthu786&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="mitthu786" /></a> </p><br>
+<p align="center"> <a href="https://github.com/mitthu786/"><img height="24" src="https://git-visitors.vercel.app/api/mitthu786" alt="mitthu786" /></a> </p><br>
 
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
@@ -25,23 +24,22 @@
 ✔️ 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- https://bit.ly/3XDNjN1<br>
 ✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- krmitthu786@gmail.com <br>
 
-
 ## ⚓ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ :
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" /></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" /></a>
 
-<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="28px" src="https://i.dlpng.com/static/png/5419450-php-image-png-98-images-in-collection-page-2-php-png-270_200_preview.png" /></a>
+<a href="https://www.w3schools.com/php/" target="_blank"><img align="left" alt="PHP" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/250px-Webysther_20160423_-_Elephpant.svg.png" /></a>
 
-<a href="https://www.w3schools.com/python/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.w3schools.com/python/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://static.vecteezy.com/system/resources/previews/012/697/295/original/3d-python-programming-language-logo-free-png.png"/> </a>
 
 <a href="https://www.w3schools.com/bootstrap/" target="_blank"> <img align="left" alt="BootStrap" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"/> </a>
 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> </a>
 
-<br />
-<br />
+<br>
+<br>
 
 ## 🧬 ꜱᴏꜰᴛᴡᴀʀᴇꜱ :
 
@@ -51,13 +49,9 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_orange.png"/> </a>
 
+<br>
+<br>
 
-<br />
-<br />
-
-
-## ⚡️ ꜱᴛᴀᴛꜱ 
+## ⚡️ ꜱᴛᴀᴛꜱ
 
 ![Mitthu786's github stats](https://github-stats-alpha.vercel.app/api/?username=mitthu786)
-
-
