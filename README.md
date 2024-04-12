@@ -1,6 +1,6 @@
 <!-- Copyrights 2020-23 @mitthu786  -->
 
-<p align="center"><a href="https://tsneh.vercel.app/ts-tg"><img src="https://thumbs.gfycat.com/AccomplishedSoggyBlackbird-max-1mb.gif" alt="Hello" /></a></p>
+<p align="center"><a href="https://tsneh.vercel.app/ts-tg"><img src="https://ik.imagekit.io/techiesneh/hi_O3s9BgplD.gif" alt="Hello" width="160px" /></a></p>
 <h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- <br></h4>
 
 <p align='center'> 
